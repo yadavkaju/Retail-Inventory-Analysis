@@ -109,7 +109,7 @@ These steps ensure the dashboard reflects **accurate and trustworthy data**.
 ---
 
 ## Files Included
-
+The Power BI (.pbix) file is available upon request.
 * Power BI Dashboard (.pbix)
 * Python notebooks / scripts
 * SQL queries
@@ -123,6 +123,21 @@ These steps ensure the dashboard reflects **accurate and trustworthy data**.
 * Predictive inventory forecasting
 
 ---
+
+## Dashboard Screenshots
+Page 1 – Executive Overview
+<img width="1330" height="745" alt="image" src="https://github.com/user-attachments/assets/2a00b1a4-e0ea-4649-8339-defa810445ac" />
+
+Page 2 – Inventory Analysis
+<img width="1335" height="743" alt="image" src="https://github.com/user-attachments/assets/4985c827-b7e2-4293-9feb-01869201b2a5" />
+
+Page 3 – Sales Performance
+<img width="1339" height="740" alt="image" src="https://github.com/user-attachments/assets/69f9591a-217a-4069-a059-5210e6df9fbb" />
+
+Page 4 – Vendor Analysis
+<img width="1327" height="735" alt="image" src="https://github.com/user-attachments/assets/a489edcb-1870-4c30-be51-86c7d7a5463b" />
+
+
 
 ## Author
 
